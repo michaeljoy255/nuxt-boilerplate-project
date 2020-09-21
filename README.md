@@ -2,6 +2,13 @@
 
 Vue/Nuxt boilerplate project using Vue 2.x and Nuxt 2.x
 
+## Improvements
+
+- Nuxt 3 / Vue 3?
+- Organize components into Page, Layout, and Common folders (BP)?
+  - Check phone image for other notes
+- Add full nav drawer and header bar code as part of BP
+
 ## Basic Build and Setup
 
 ```bash
